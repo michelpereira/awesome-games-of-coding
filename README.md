@@ -45,16 +45,9 @@ Corewars is a game of warrior vs warrior, programmed by two opponents, and place
 
 - [Website](http://www.corewars.org)
 - [Repository](https://github.com/ivanignatiev/corewar)
-- [Tutorial](http://www.corewars.org/information.html)
-
-## Corewars
-
-Corewars is a game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.
-
-- [Website](http://www.koth.org)
-- [Repository](https://github.com/ivanignatiev/corewar)
-- [Tutorial](http://www.koth.org/info.html)
-
+- [Tutorials part 1](http://www.corewars.org/information.html)
+- [Tutorials part 2](http://www.koth.org/info.html)
+- [King of the Hill](http://www.koth.org)
 
 #### License
 
