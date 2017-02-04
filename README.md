@@ -20,6 +20,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Generals IO](#generalsio)
 - [Robocode](#robocode)
 - [Corewars](#corewars)
+- [Javascript Fight Club](#javascript-fight-club)
 
 ## Generals IO
 
