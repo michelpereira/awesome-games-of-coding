@@ -21,7 +21,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Robocode](#robocode)
 - [Corewars](#corewars)
 
-## Generals IO
+## Generals.IO
 
 generals.io is a fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
 
@@ -46,15 +46,6 @@ Corewars is a game of warrior vs warrior, programmed by two opponents, and place
 - [Website](http://www.corewars.org)
 - [Repository](https://github.com/ivanignatiev/corewar)
 - [Tutorial](http://www.corewars.org/information.html)
-
-## Corewars
-
-Corewars is a game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.
-
-- [Website](http://www.koth.org)
-- [Repository](https://github.com/ivanignatiev/corewar)
-- [Tutorial](http://www.koth.org/info.html)
-
 
 #### License
 
