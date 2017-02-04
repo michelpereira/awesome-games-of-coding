@@ -20,6 +20,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Generals IO](#generalsio)
 - [Robocode](#robocode)
 - [Corewars](#corewars)
+- [Shenzhen I/O](#shenzhenio)
 
 ## Generals IO
 
@@ -54,6 +55,12 @@ Corewars is a game of warrior vs warrior, programmed by two opponents, and place
 - [Website](http://www.koth.org)
 - [Repository](https://github.com/ivanignatiev/corewar)
 - [Tutorial](http://www.koth.org/info.html)
+
+## Shenzhen I/O
+
+Shenzhen I/O is a game in which you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates, and then write code in a compact and powerful assembly language where every instruction can be conditionally executed.
+
+- [Website](http://www.zachtronics.com/shenzhen-io/)
 
 
 #### License
