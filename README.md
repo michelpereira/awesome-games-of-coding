@@ -75,21 +75,6 @@ MHRD is a hardware design game, in which you design various hardware circuits in
 
 - [Website](http://store.steampowered.com/app/576030/)
 
-### Main Site
-
-- [corewars.org](http://www.corewars.org)
-- [Tutorial](http://www.corewars.org/information.html)
-
-### Koth
-
-- [koth.org](http://www.koth.org)
-- [Tutorial](http://www.koth.org/info.html)
-
-### Repositories
-
-- [ivanignatiev/corewar](https://github.com/ivanignatiev/corewar)
-- [mdtrooper/corewar](https://github.com/mdtrooper/corewar) Clone of pMars from sourceforge with fixes
-
 ## Javascript Fight Club
 
 "The Red King and the Blue King are at war! Your Javascript skills are needed to determine the victor: Can you code an effective AI for honor and glory?"
