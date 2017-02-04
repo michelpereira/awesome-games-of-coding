@@ -20,6 +20,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Generals IO](#generalsio)
 - [Robocode](#robocode)
 - [Corewars](#corewars)
+- [TIS-100](#tis-100)
 
 ## Generals IO
 
@@ -55,6 +56,11 @@ Corewars is a game of warrior vs warrior, programmed by two opponents, and place
 - [Repository](https://github.com/ivanignatiev/corewar)
 - [Tutorial](http://www.koth.org/info.html)
 
+## TIS-100
+
+TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It’s the assembly language programming game you never asked for!
+
+- [Website](http://www.zachtronics.com/tis-100/)
 
 #### License
 
