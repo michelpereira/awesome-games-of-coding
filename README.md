@@ -15,7 +15,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Robocode](#robocode)
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
-- [Shenzhen I/O](#shenzhenio)
+- [Shenzhen I/O](#shenzhen-io)
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
 
