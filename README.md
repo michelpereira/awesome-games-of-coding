@@ -58,6 +58,12 @@ Shenzhen I/O is a game in which you build circuits using a variety of components
 
 - [Website](http://www.zachtronics.com/shenzhen-io/)
 
+## Codingame
+
+Codingame is a platform for solving gaming puzzles and writing AI bots.
+
+- [Website](https://www.codingame.com/home)
+
 ## Screeps
 
 Screeps is about scripting your creeps. No point’n’clicking any longer! You write real JavaScript* which controls your units autonomously. Any time, everywhere, even while you are offline.
