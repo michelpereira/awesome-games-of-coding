@@ -20,6 +20,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Generals IO](#generalsio)
 - [Robocode](#robocode)
 - [Corewars](#corewars)
+- [Screeps](#screeps)
 
 ## Generals IO
 
@@ -54,6 +55,16 @@ Corewars is a game of warrior vs warrior, programmed by two opponents, and place
 - [Website](http://www.koth.org)
 - [Repository](https://github.com/ivanignatiev/corewar)
 - [Tutorial](http://www.koth.org/info.html)
+
+## Screeps
+
+Screeps is about scripting your creeps. No point’n’clicking any longer! You write real JavaScript* which controls your units autonomously. Any time, everywhere, even while you are offline.
+
+(* Or any other language using compilers.)
+
+- [Website](https://screeps.com/)
+- [Repository](https://github.com/screeps/screeps)
+- [Tutorial](https://screeps.com/a/#!/sim/tutorial)
 
 
 #### License
