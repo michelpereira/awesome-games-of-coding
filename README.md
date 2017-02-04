@@ -18,6 +18,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Shenzhen I/O](#shenzhenio)
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
+- [MHRD](#mhrd)
 
 ## Generals IO
 
@@ -67,6 +68,27 @@ Screeps is about scripting your creeps. No point’n’clicking any longer! You 
 - [Website](https://screeps.com/)
 - [Repository](https://github.com/screeps/screeps)
 - [Tutorial](https://screeps.com/a/#!/sim/tutorial)
+
+## MHRD
+
+MHRD is a hardware design game, in which you design various hardware circuits in a hardware description language. The hardware circuits you design get more complex as you go until you create a fully functional CPU design.
+
+- [Website](http://store.steampowered.com/app/576030/)
+
+### Main Site
+
+- [corewars.org](http://www.corewars.org)
+- [Tutorial](http://www.corewars.org/information.html)
+
+### Koth
+
+- [koth.org](http://www.koth.org)
+- [Tutorial](http://www.koth.org/info.html)
+
+### Repositories
+
+- [ivanignatiev/corewar](https://github.com/ivanignatiev/corewar)
+- [mdtrooper/corewar](https://github.com/mdtrooper/corewar) Clone of pMars from sourceforge with fixes
 
 ## Javascript Fight Club
 
