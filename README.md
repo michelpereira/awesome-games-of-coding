@@ -1,15 +1,8 @@
-<h1 align="center">
-	<br>
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-</h1>
-
 # Games of Coding
 
-> A curated list of games that teach you a programming language
+A curated list of games that teach you a programming language
 
 - [Contribution guide](contributing.md)
-- [Creating a list](create-list.md)<br><sup>Please take the time to read this and do an actual effort with your list. All the low-quality submissions are burning me out...</sup>
-- [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
 
 [![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/gamesofcoding/Lobby)
 
@@ -17,7 +10,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 
 ## Table of Contents
 
-- [Generals IO](#generalsio)
+- [Generals IO](#generals-io)
 - [Robocode](#robocode)
 - [Corewars](#corewars)
 
@@ -26,7 +19,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 generals.io is a fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
 
 - [Website](http://generals.io)
-- [Repository]()
 - [Tutorial](http://dev.generals.io/api)
 
 ## Robocode
@@ -43,19 +35,21 @@ Programming languages: Java, Python, Node
 
 Corewars is a game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.
 
-- [Website](http://www.corewars.org)
-- [Repository](https://github.com/ivanignatiev/corewar)
+### Main Site
+
+- [corewars.org](http://www.corewars.org)
 - [Tutorial](http://www.corewars.org/information.html)
 
-## Corewars
+### Koth
 
-Corewars is a game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.
-
-- [Website](http://www.koth.org)
-- [Repository](https://github.com/ivanignatiev/corewar)
+- [koth.org](http://www.koth.org)
 - [Tutorial](http://www.koth.org/info.html)
 
+### Repositories
 
-#### License
+- [ivanignatiev/corewar](https://github.com/ivanignatiev/corewar)
+- [mdtrooper/corewar](https://github.com/mdtrooper/corewar) Clone of pMars from sourceforge with fixes
+
+## License
 
 To the extent possible under law, [Michel Pereira](http://www.michelpereira.com.br) has waived all copyright and related or neighboring rights to this work.
