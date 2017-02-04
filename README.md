@@ -21,6 +21,8 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Javascript Fight Club](#javascript-fight-club)
 - [Box-256](#box-256)
 - [Scalatron] (#scalatron)
+- [Colobot](#colobot)
+
 ## Generals IO
 
 generals.io is a fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
@@ -100,6 +102,13 @@ Scalatron is a multi-player programming game in which coders pit bot programs (w
 - [Website](http://scalatron.github.io/)
 - [Repository](https://github.com/scalatron/scalatron)
 - [Tutorial](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md)
+
+## Colobot
+
+Colobot is a 3D video game where you program your bots to ride, fly, find, bring, refuel and destroy. Game is using a language called CBOT, similar to C++ and Java. Colobot offers tutorialed campaign with gradually harder tasks or you can play scenarios to challenge your skill.
+
+- [Website](https://colobot.info/)
+- [Repository](https://github.com/colobot/colobot)
 
 ## License
 
