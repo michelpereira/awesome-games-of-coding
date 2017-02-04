@@ -20,6 +20,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Robocode](#robocode)
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
+- [Shenzhen I/O](#shenzhenio)
 
 ## Generals IO
 
@@ -54,6 +55,12 @@ Corewars is a game of warrior vs warrior, programmed by two opponents, and place
 TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It’s the assembly language programming game you never asked for!
 
 - [Website](http://www.zachtronics.com/tis-100/)
+
+## Shenzhen I/O
+
+Shenzhen I/O is a game in which you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates, and then write code in a compact and powerful assembly language where every instruction can be conditionally executed.
+
+- [Website](http://www.zachtronics.com/shenzhen-io/)
 
 #### License
 
