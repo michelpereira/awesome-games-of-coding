@@ -55,6 +55,14 @@ Corewars is a game of warrior vs warrior, programmed by two opponents, and place
 - [Repository](https://github.com/ivanignatiev/corewar)
 - [Tutorial](http://www.koth.org/info.html)
 
+## Javascript Fight Club
+
+"The Red King and the Blue King are at war! Your Javascript skills are needed to determine the victor: Can you code an effective AI for honor and glory?"
+
+- [Website](https://jsfight.club/)
+- [Repository](https://github.com/JSJitsu/hero-starter)
+- [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
+
 
 #### License
 
