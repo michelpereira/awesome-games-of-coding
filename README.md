@@ -21,6 +21,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
 - [Shenzhen I/O](#shenzhenio)
+- [Screeps](#screeps)
 
 ## Generals IO
 
@@ -61,6 +62,15 @@ TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceC
 Shenzhen I/O is a game in which you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates, and then write code in a compact and powerful assembly language where every instruction can be conditionally executed.
 
 - [Website](http://www.zachtronics.com/shenzhen-io/)
+## Screeps
+
+Screeps is about scripting your creeps. No point’n’clicking any longer! You write real JavaScript* which controls your units autonomously. Any time, everywhere, even while you are offline.
+
+(* Or any other language using compilers.)
+
+- [Website](https://screeps.com/)
+- [Repository](https://github.com/screeps/screeps)
+- [Tutorial](https://screeps.com/a/#!/sim/tutorial)
 
 #### License
 
