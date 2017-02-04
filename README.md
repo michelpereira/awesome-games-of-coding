@@ -18,6 +18,8 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Shenzhen I/O](#shenzhenio)
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
+- [Vindinium](#vindinium)
+- [Elevator Saga](#elevator-saga)
 
 ## Generals IO
 
@@ -75,6 +77,19 @@ Screeps is about scripting your creeps. No point’n’clicking any longer! You 
 - [Website](https://jsfight.club/)
 - [Repository](https://github.com/JSJitsu/hero-starter)
 - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
+
+## Vindinium
+
+In Vindinium, players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
+
+- [Website](http://vindinium.org/)
+- [Subreddit](https://www.reddit.com/r/vindinium/)
+
+## Elevator Saga
+
+Write Javascript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
+
+- [Website](http://play.elevatorsaga.com/)
 
 ## License
 
