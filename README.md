@@ -17,6 +17,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [TIS-100](#tis-100)
 - [Shenzhen I/O](#shenzhenio)
 - [Screeps](#screeps)
+- [Javascript Fight Club](#javascript-fight-club)
 
 ## Generals IO
 
@@ -81,6 +82,14 @@ Screeps is about scripting your creeps. No point’n’clicking any longer! You 
 
 - [ivanignatiev/corewar](https://github.com/ivanignatiev/corewar)
 - [mdtrooper/corewar](https://github.com/mdtrooper/corewar) Clone of pMars from sourceforge with fixes
+
+## Javascript Fight Club
+
+"The Red King and the Blue King are at war! Your Javascript skills are needed to determine the victor: Can you code an effective AI for honor and glory?"
+
+- [Website](https://jsfight.club/)
+- [Repository](https://github.com/JSJitsu/hero-starter)
+- [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
 
 ## License
 
