@@ -46,18 +46,15 @@ Corewars is a game of warrior vs warrior, programmed by two opponents, and place
 
 - [Website](http://www.corewars.org)
 - [Repository](https://github.com/ivanignatiev/corewar)
-<<<<<<< HEAD
 - [Tutorials part 1](http://www.corewars.org/information.html)
 - [Tutorials part 2](http://www.koth.org/info.html)
 - [King of the Hill](http://www.koth.org)
-=======
 
 ## TIS-100
 
 TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It’s the assembly language programming game you never asked for!
 
 - [Website](http://www.zachtronics.com/tis-100/)
->>>>>>> af1fab8a3840918d3601b162526967e46d62c022
 
 #### License
 
