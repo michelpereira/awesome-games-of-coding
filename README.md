@@ -18,6 +18,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Shenzhen I/O](#shenzhenio)
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
+- [CodeCombat](#codecombat)
 
 ## Generals IO
 
@@ -75,6 +76,13 @@ Screeps is about scripting your creeps. No point’n’clicking any longer! You 
 - [Website](https://jsfight.club/)
 - [Repository](https://github.com/JSJitsu/hero-starter)
 - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
+
+## CodeCombat
+
+Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
+
+- [Website](https://codecombat.com/)
+- [Repository](https://github.com/codecombat/codecombat)
 
 ## License
 
