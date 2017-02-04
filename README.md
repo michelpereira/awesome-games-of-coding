@@ -43,9 +43,18 @@ Programming languages: Java, Python, Node
 
 Corewars is a game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.
 
+- [Website](http://www.corewars.org)
+- [Repository](https://github.com/ivanignatiev/corewar)
+- [Tutorial](http://www.corewars.org/information.html)
+
+## Corewars
+
+Corewars is a game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.
+
 - [Website](http://www.koth.org)
 - [Repository](https://github.com/ivanignatiev/corewar)
 - [Tutorial](http://www.koth.org/info.html)
+
 
 #### License
 
