@@ -1,11 +1,6 @@
-<h1 align="center">
-	<br>
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-</h1>
-
 # Games of Coding
 
-> A curated list of games that teach you a programming language
+A curated list of games that teach you a programming language
 
 - [Contribution guide](contributing.md)
 - [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
@@ -16,7 +11,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 
 ## Table of Contents
 
-- [Generals IO](#generalsio)
+- [Generals IO](#generals-io)
 - [Robocode](#robocode)
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
@@ -28,7 +23,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 generals.io is a fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
 
 - [Website](http://generals.io)
-- [Repository]()
 - [Tutorial](http://dev.generals.io/api)
 
 ## Robocode
@@ -62,6 +56,7 @@ TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceC
 Shenzhen I/O is a game in which you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates, and then write code in a compact and powerful assembly language where every instruction can be conditionally executed.
 
 - [Website](http://www.zachtronics.com/shenzhen-io/)
+
 ## Screeps
 
 Screeps is about scripting your creeps. No point’n’clicking any longer! You write real JavaScript* which controls your units autonomously. Any time, everywhere, even while you are offline.
@@ -72,6 +67,21 @@ Screeps is about scripting your creeps. No point’n’clicking any longer! You 
 - [Repository](https://github.com/screeps/screeps)
 - [Tutorial](https://screeps.com/a/#!/sim/tutorial)
 
-#### License
+### Main Site
+
+- [corewars.org](http://www.corewars.org)
+- [Tutorial](http://www.corewars.org/information.html)
+
+### Koth
+
+- [koth.org](http://www.koth.org)
+- [Tutorial](http://www.koth.org/info.html)
+
+### Repositories
+
+- [ivanignatiev/corewar](https://github.com/ivanignatiev/corewar)
+- [mdtrooper/corewar](https://github.com/mdtrooper/corewar) Clone of pMars from sourceforge with fixes
+
+## License
 
 To the extent possible under law, [Michel Pereira](http://www.michelpereira.com.br) has waived all copyright and related or neighboring rights to this work.
