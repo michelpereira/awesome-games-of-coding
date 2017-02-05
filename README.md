@@ -13,12 +13,14 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 
 - [Generals IO](#generals-io)
 - [Robocode](#robocode)
+- [Code Hero](#code-hero)
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
-- [Shenzhen I/O](#shenzhenio)
+- [Shenzhen I/O](#shenzhen-io)
 - [Screeps](#screeps)
-- [Javascript Fight Club](#javascript-fight-club)
 - [MHRD](#mhrd)
+- [Javascript Fight Club](#javascript-fight-club)
+- [Box-256](#box-256)
 
 ## Generals IO
 
@@ -36,6 +38,14 @@ Robocode is a programming game, where the goal is to develop a robot battle tank
 - [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
 
 Programming languages: Java, Python, Node 
+
+## Code Hero
+
+Code Hero is a game making game that teaches you how to make games. It is a first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
+
+- [Website](http://www.codehero.org)
+
+Programming languages: C#, Unity
 
 ## Corewars
 
@@ -82,6 +92,13 @@ MHRD is a hardware design game, in which you design various hardware circuits in
 - [Website](https://jsfight.club/)
 - [Repository](https://github.com/JSJitsu/hero-starter)
 - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
+
+## Box-256
+
+Box-256 is a game about writing assembly code to match a shown graphic.
+
+- [Website](http://box-256.com/)
+- [Manual](http://box-256.com/manual/index.html)
 
 ## License
 
