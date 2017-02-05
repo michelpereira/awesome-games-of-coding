@@ -13,6 +13,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 
 - [Generals IO](#generals-io)
 - [Robocode](#robocode)
+- [Code Hero](#code-hero)
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
 - [Shenzhen I/O](#shenzhenio)
@@ -35,6 +36,14 @@ Robocode is a programming game, where the goal is to develop a robot battle tank
 - [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
 
 Programming languages: Java, Python, Node 
+
+## Code Hero
+
+Code Hero is a game making game that teaches you how to make games. It is a first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
+
+- [Website](http://www.codehero.org)
+
+Programming languages: C#, Unity
 
 ## Corewars
 
