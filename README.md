@@ -76,6 +76,16 @@ Screeps is about scripting your creeps. No point’n’clicking any longer! You 
 - [Repository](https://github.com/JSJitsu/hero-starter)
 - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
 
+## Empire of Code
+
+"Empire of Code is a space game with a mix of strategy, tactics and coding." The game is Browser based and requires a free account. After account creation you have to choose your team: Python vs. JavaScript!
+
+*Build*: Improve algorithms so that your factories produce more effectively  
+*Conquer*: Code your defense strategies to protect your base from encroaching enemies  
+*Rule by Code*: Develop a bot to attack other players, steal their resources and... their algorithms.
+
+- [Website](https://empireofcode.com/game/)
+
 ## License
 
 To the extent possible under law, [Michel Pereira](http://www.michelpereira.com.br) has waived all copyright and related or neighboring rights to this work.
