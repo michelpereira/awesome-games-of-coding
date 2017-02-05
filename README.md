@@ -19,6 +19,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Shenzhen I/O](#shenzhen-io)
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
+- [Box-256](#box-256)
 
 ## Generals IO
 
@@ -84,6 +85,13 @@ Screeps is about scripting your creeps. No point’n’clicking any longer! You 
 - [Website](https://jsfight.club/)
 - [Repository](https://github.com/JSJitsu/hero-starter)
 - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
+
+## Box-256
+
+Box-256 is a game about writing assembly code to match a shown graphic.
+
+- [Website](http://box-256.com/)
+- [Manual](http://box-256.com/manual/index.html)
 
 ## License
 
