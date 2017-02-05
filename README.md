@@ -20,6 +20,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
 - [Box-256](#box-256)
+- [Google's XSS Challenge](#google-xss-challenge)
 
 ## Generals IO
 
@@ -92,6 +93,12 @@ Box-256 is a game about writing assembly code to match a shown graphic.
 
 - [Website](http://box-256.com/)
 - [Manual](http://box-256.com/manual/index.html)
+
+## Google's XSS Challenge
+
+Google's XSS Challenge is a game consisting of finding and exploiting XSS vulnerabilities in a series of levels resembling real-world applications.
+
+- [Website](https://xss-game.appspot.com/)
 
 ## License
 
