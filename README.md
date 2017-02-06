@@ -20,7 +20,9 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
 - [Box-256](#box-256)
-- [Scalatron] (#scalatron)
+- [Scalatron](#scalatron)
+- [CodeGames](#codegames)
+
 ## Generals IO
 
 generals.io is a fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
@@ -100,6 +102,15 @@ Scalatron is a multi-player programming game in which coders pit bot programs (w
 - [Website](http://scalatron.github.io/)
 - [Repository](https://github.com/scalatron/scalatron)
 - [Tutorial](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md)
+
+## CodeGames
+
+Code Games is a real time programming game where you compete against other players by coding the behaviour of a space ship. The programming language is easy to learn and the game is super fun. Subscribe to one of our tournaments and compete for the prize.
+
+- [Website](http://codegames.io/en/)
+- [Manual](http://codegames.io/en/help)
+- [Practice zone](http://codegames.io/en/practice)
+- [Spanish version](http://codegames.io/es/)
 
 ## License
 
