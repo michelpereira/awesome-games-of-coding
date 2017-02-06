@@ -20,7 +20,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
 - [Box-256](#box-256)
-
+- [Scalatron] (#scalatron)
 ## Generals IO
 
 generals.io is a fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
@@ -92,6 +92,14 @@ Box-256 is a game about writing assembly code to match a shown graphic.
 
 - [Website](http://box-256.com/)
 - [Manual](http://box-256.com/manual/index.html)
+
+## Scalatron
+
+Scalatron is a multi-player programming game in which coders pit bot programs (written in Scala) against each other. It is an educational resource for groups of programmers or individuals that want to learn more about the Scala programming language or want to hone their Scala programming skills.
+
+- [Website](http://scalatron.github.io/)
+- [Repository](https://github.com/scalatron/scalatron)
+- [Tutorial](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md)
 
 ## License
 
