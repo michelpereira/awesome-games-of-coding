@@ -21,6 +21,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Javascript Fight Club](#javascript-fight-club)
 - [Box-256](#box-256)
 - [Scalatron] (#scalatron)
+
 ## Generals IO
 
 generals.io is a fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
