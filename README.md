@@ -21,6 +21,8 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Javascript Fight Club](#javascript-fight-club)
 - [Box-256](#box-256)
 - [Scalatron] (#scalatron)
+- [RubyWarrior](#rubywarrior)
+
 ## Generals IO
 
 generals.io is a fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
@@ -100,6 +102,13 @@ Scalatron is a multi-player programming game in which coders pit bot programs (w
 - [Website](http://scalatron.github.io/)
 - [Repository](https://github.com/scalatron/scalatron)
 - [Tutorial](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md)
+
+## RubyWarrior
+
+RubyWarrior is a browser based game where you control your avatar through various levels filled with enemies using Ruby.
+
+- [Website](https://www.bloc.io/ruby-warrior)
+
 
 ## License
 
