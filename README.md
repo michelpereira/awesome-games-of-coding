@@ -28,7 +28,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Scalatron] (#scalatron)
 - [Colobot](#colobot)
 - [CodeCombat](#codecombat)
->>>>>>> 0931f85d9875301e9432b2db1f727ae78cffd46f
 
 ## Generals IO
 
@@ -107,8 +106,6 @@ MHRD is a hardware design game, in which you design various hardware circuits in
 - [Repository](https://github.com/JSJitsu/hero-starter)
 - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## Box-256
 
 Box-256 is a game about writing assembly code to match a shown graphic.
@@ -150,6 +147,16 @@ Choose your hero and code your way through the ogre patrols, lava pits, and lase
 
 - [Website](https://codecombat.com/)
 - [Repository](https://github.com/codecombat/codecombat)
+
+## Empire of Code
+
+"Empire of Code is a space game with a mix of strategy, tactics and coding." The game is Browser based and requires a free account. After account creation you have to choose your team: Python vs. JavaScript!
+
+*Build*: Improve algorithms so that your factories produce more effectively  
+*Conquer*: Code your defense strategies to protect your base from encroaching enemies  
+*Rule by Code*: Develop a bot to attack other players, steal their resources and... their algorithms.
+
+- [Website](https://empireofcode.com/game/)
 
 ## License
 
