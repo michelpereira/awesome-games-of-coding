@@ -28,6 +28,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Scalatron] (#scalatron)
 - [Colobot](#colobot)
 - [CodeCombat](#codecombat)
+- [CodeGames](#codegames)
 
 ## Generals IO
 
@@ -157,6 +158,15 @@ Choose your hero and code your way through the ogre patrols, lava pits, and lase
 *Rule by Code*: Develop a bot to attack other players, steal their resources and... their algorithms.
 
 - [Website](https://empireofcode.com/game/)
+
+## CodeGames
+
+Code Games is a real time programming game where you compete against other players by coding the behaviour of a space ship. The programming language is easy to learn and the game is super fun. Subscribe to one of our tournaments and compete for the prize.
+
+- [Website](http://codegames.io/en/)
+- [Manual](http://codegames.io/en/help)
+- [Practice zone](http://codegames.io/en/practice)
+- [Spanish version](http://codegames.io/es/)
 
 ## License
 
