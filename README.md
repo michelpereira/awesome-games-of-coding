@@ -22,7 +22,9 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [MHRD](#mhrd)
 - [Javascript Fight Club](#javascript-fight-club)
 - [Box-256](#box-256)
-- [Scalatron] (#scalatron)
+- [Scalatron](#scalatron)
+- [Vindinium](#vindinium)
+- [Elevator Saga](#elevator-saga)
 
 ## Generals IO
 
@@ -115,6 +117,19 @@ Scalatron is a multi-player programming game in which coders pit bot programs (w
 - [Website](http://scalatron.github.io/)
 - [Repository](https://github.com/scalatron/scalatron)
 - [Tutorial](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md)
+
+## Vindinium
+
+In Vindinium, players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
+
+- [Website](http://vindinium.org/)
+- [Subreddit](https://www.reddit.com/r/vindinium/)
+
+## Elevator Saga
+
+Write Javascript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
+
+- [Website](http://play.elevatorsaga.com/)
 
 ## License
 
