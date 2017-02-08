@@ -13,6 +13,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 
 - [Generals IO](#generals-io)
 - [Robocode](#robocode)
+- [Codingame](#codingame)
 - [Code Hero](#code-hero)
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
