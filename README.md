@@ -27,6 +27,8 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Elevator Saga](#elevator-saga)
 - [Scalatron] (#scalatron)
 - [Colobot](#colobot)
+- [CodeCombat](#codecombat)
+>>>>>>> 0931f85d9875301e9432b2db1f727ae78cffd46f
 
 ## Generals IO
 
@@ -106,6 +108,7 @@ MHRD is a hardware design game, in which you design various hardware circuits in
 - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Box-256
 
 Box-256 is a game about writing assembly code to match a shown graphic.
@@ -140,6 +143,13 @@ Colobot is a 3D video game where you program your bots to ride, fly, find, bring
 
 - [Website](https://colobot.info/)
 - [Repository](https://github.com/colobot/colobot)
+
+## CodeCombat
+
+Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
+
+- [Website](https://codecombat.com/)
+- [Repository](https://github.com/codecombat/codecombat)
 
 ## License
 
