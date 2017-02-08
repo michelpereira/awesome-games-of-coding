@@ -18,6 +18,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [TIS-100](#tis-100)
 - [Shenzhen I/O](#shenzhen-io)
 - [Screeps](#screeps)
+- [MHRD](#mhrd)
 - [Javascript Fight Club](#javascript-fight-club)
 - [Box-256](#box-256)
 - [Scalatron] (#scalatron)
@@ -78,6 +79,12 @@ Screeps is about scripting your creeps. No point’n’clicking any longer! You 
 - [Website](https://screeps.com/)
 - [Repository](https://github.com/screeps/screeps)
 - [Tutorial](https://screeps.com/a/#!/sim/tutorial)
+
+## MHRD
+
+MHRD is a hardware design game, in which you design various hardware circuits in a hardware description language. The hardware circuits you design get more complex as you go until you create a fully functional CPU design.
+
+- [Website](http://store.steampowered.com/app/576030/)
 
 ## Javascript Fight Club
 
