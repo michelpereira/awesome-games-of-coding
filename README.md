@@ -25,6 +25,8 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Scalatron](#scalatron)
 - [Vindinium](#vindinium)
 - [Elevator Saga](#elevator-saga)
+- [Scalatron] (#scalatron)
+- [Colobot](#colobot)
 
 ## Generals IO
 
@@ -130,6 +132,13 @@ In Vindinium, players write scripts in the programming language of their choice 
 Write Javascript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
 
 - [Website](http://play.elevatorsaga.com/)
+
+## Colobot
+
+Colobot is a 3D video game where you program your bots to ride, fly, find, bring, refuel and destroy. Game is using a language called CBOT, similar to C++ and Java. Colobot offers tutorialed campaign with gradually harder tasks or you can play scenarios to challenge your skill.
+
+- [Website](https://colobot.info/)
+- [Repository](https://github.com/colobot/colobot)
 
 ## License
 
