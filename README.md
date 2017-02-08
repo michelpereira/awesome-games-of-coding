@@ -77,7 +77,7 @@ Shenzhen I/O is a game in which you build circuits using a variety of components
 
 ## Codingame
 
-Codingame is a platform for solving gaming puzzles and writing AI bots.
+CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics. 
 
 - [Website](https://www.codingame.com/home)
 
@@ -105,6 +105,7 @@ MHRD is a hardware design game, in which you design various hardware circuits in
 - [Repository](https://github.com/JSJitsu/hero-starter)
 - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
 
+<<<<<<< HEAD
 ## Box-256
 
 Box-256 is a game about writing assembly code to match a shown graphic.
