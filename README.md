@@ -25,10 +25,10 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Scalatron](#scalatron)
 - [Vindinium](#vindinium)
 - [Elevator Saga](#elevator-saga)
-- [Scalatron] (#scalatron)
 - [Colobot](#colobot)
 - [CodeCombat](#codecombat)
 - [CodeGames](#codegames)
+- [RubyWarrior](#rubywarrior)
 
 ## Generals IO
 
@@ -167,6 +167,13 @@ Code Games is a real time programming game where you compete against other playe
 - [Manual](http://codegames.io/en/help)
 - [Practice zone](http://codegames.io/en/practice)
 - [Spanish version](http://codegames.io/es/)
+
+## RubyWarrior
+
+RubyWarrior is a browser based game where you control your avatar through various levels filled with enemies using Ruby.
+
+- [Website](https://www.bloc.io/ruby-warrior)
+
 
 ## License
 
