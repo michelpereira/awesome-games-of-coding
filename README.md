@@ -13,11 +13,11 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 
 - [Generals IO](#generals-io)
 - [Robocode](#robocode)
-- [Codingame](#codingame)
 - [Code Hero](#code-hero)
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
 - [Shenzhen I/O](#shenzhen-io)
+- [Codingame](#codingame)
 - [Screeps](#screeps)
 - [MHRD](#mhrd)
 - [Javascript Fight Club](#javascript-fight-club)
@@ -27,6 +27,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Elevator Saga](#elevator-saga)
 - [Colobot](#colobot)
 - [CodeCombat](#codecombat)
+- [Empire of Code](#empire-of-code)
 - [CodeGames](#codegames)
 - [RubyWarrior](#rubywarrior)
 
