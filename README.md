@@ -12,6 +12,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 ## Table of Contents
 
 - [Generals IO](#generals-io)
+- [Robo Dojo](#robo-dojo)
 - [Robocode](#robocode)
 - [Codingame](#codingame)
 - [Code Hero](#code-hero)
@@ -37,6 +38,12 @@ generals.io is a fast-paced strategy game where you expand your land and battle 
 
 - [Website](http://generals.io)
 - [Tutorial](http://dev.generals.io/api)
+
+## Robo Dojo
+
+Robo Dojo is a game in which you build robots that build, corrupt and destroy other robots in an attempt to eliminate all competitors.
+
+- [Website](http://robodojo.club/doc/)
 
 ## Robocode
 
