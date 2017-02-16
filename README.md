@@ -19,6 +19,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
 - [Shenzhen I/O](#shenzhen-io)
+- [Embedded Security CTF](#embedded-security-ctf)
 - [Screeps](#screeps)
 - [MHRD](#mhrd)
 - [Javascript Fight Club](#javascript-fight-club)
@@ -84,6 +85,12 @@ TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceC
 Shenzhen I/O is a game in which you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates, and then write code in a compact and powerful assembly language where every instruction can be conditionally executed.
 
 - [Website](http://www.zachtronics.com/shenzhen-io/)
+
+## Embedded Security CTF
+
+Embedded Security CTF is a game in which you bypass a series of locks, essentially hacking them, in order to get through a series of warehouses.
+
+- [Website](https://microcorruption.com/)
 
 ## Codingame
 
