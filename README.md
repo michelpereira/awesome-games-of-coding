@@ -32,6 +32,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [CodeGames](#codegames)
 - [RubyWarrior](#rubywarrior)
 - [CodeFights](#codefights)
+- [Mudlet](#mudlet)
 
 ## Generals IO
 
@@ -200,6 +201,17 @@ CodeFights is about improving your coding skills by solving programming challeng
 *Tourneys*: you get matched up against multiple opponents at once
 
 - [Website](https://codefights.com/)
+
+## Mudlet
+
+Mudlet is a game client that allows you to play MUDs (text-only MMORPGs). You can write Lua code in Mudlet to help you play MUDs, game rules permitting, to do things like:
+
+*PvP*: fight alone, or as a group, semi-automated or completely automated in a PvP environment
+*PvE*: similarly, you can script bot to take on NPCs in PvE
+*Interaction*: or maybe even go all the way and completely automate your character and their interactions?
+
+- [Website](http://www.mudlet.org/)
+- [Manual](http://wiki.mudlet.org/w/Manual:Introduction)
 
 ## License
 
