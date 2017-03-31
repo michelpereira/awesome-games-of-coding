@@ -56,7 +56,9 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [MHRD](#mhrd)
 - [Colobot](#colobot)
 - [CodeGames](#codegames)
-
+- [RubyWarrior](#rubywarrior)
+- [CodeFights](#codefights)
+- [Mudlet](#mudlet)
 
 ## Language Independent
 
@@ -299,6 +301,17 @@ Code Games is a real time programming game where you compete against other playe
 - [Practice zone](http://codegames.io/en/practice)
 - [Spanish version](http://codegames.io/es/)
 
+
+## Mudlet
+
+Mudlet is a game client that allows you to play MUDs (text-only MMORPGs). You can write Lua code in Mudlet to help you play MUDs, game rules permitting, to do things like:
+
+*PvP*: fight alone, or as a group, semi-automated or completely automated in a PvP environment
+*PvE*: similarly, you can script bot to take on NPCs in PvE
+*Interaction*: or maybe even go all the way and completely automate your character and their interactions?
+
+- [Website](http://www.mudlet.org/)
+- [Manual](http://wiki.mudlet.org/w/Manual:Introduction)
 
 ## License
 
