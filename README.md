@@ -315,4 +315,4 @@ Mudlet is a game client that allows you to play MUDs (text-only MMORPGs). You ca
 
 ## License
 
-To the extent possible under law, [Michel Pereira](http://www.michelpereira.com.br) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Michel Pereira](https://www.linkedin.com/in/michelpereira) has waived all copyright and related or neighboring rights to this work.
