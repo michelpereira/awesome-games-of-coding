@@ -11,43 +11,43 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 
 ## Table of Contents
 
-### [Language Independent](https://github.com/crclark96/gamesofcoding/blob/master/README.md#language-independent-1)
+### [Language Independent](#language-independent-1)
 - [Codingame](#codingame)
 - [Vindinium](#vindinium)
 - [CodeFights](#codefights)
 
-### [Python](https://github.com/crclark96/gamesofcoding/blob/master/README.md#python-1)
+### [Python](#python-1)
 - [Robocode](#robocode)
 - [CodeCombat](#codecombat)
 
-### [Java](https://github.com/crclark96/gamesofcoding/blob/master/README.md#java-1)
+### [Java](#java-1)
 - [Robocode](#robocode)
 
-### [JavaScript](https://github.com/crclark96/gamesofcoding/blob/master/README.md#javascript-1)
+### [JavaScript](#javascript-1)
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
 - [Elevator Saga](#elevator-saga)
 - [CodeCombat](#codecombat)
 
-### [C\#](https://github.com/crclark96/gamesofcoding/blob/master/README.md#c#-1)
+### [C\#](#c#-1)
 - [Robocode](#robocode)
 - [Code Hero](#code-hero)
 
-### [Ruby](https://github.com/crclark96/gamesofcoding/blob/master/README.md#ruby-1)
+### [Ruby](#ruby-1)
 - [RubyWarrior](#rubywarrior)
 
-### [Assembly](https://github.com/crclark96/gamesofcoding/blob/master/README.md#assembly-1)
+### [Assembly](#assembly-1)
 - [Embedded Security CTF](#embedded-security-ctf)
 - [Box-256](#box-256)
 
-### [Scala](https://github.com/crclark96/gamesofcoding/blob/master/README.md#scala-1)
+### [Scala](#scala-1)
 - [Robocode](#robocode)
 - [Scalatron](#scalatron)
 
-### [Lua](https://github.com/crclark96/gamesofcoding/blob/master/README.md#lua-1)
+### [Lua](#lua-1)
 - [CodeCombat](#codecombat)
 
-### [Miscellaneous](https://github.com/crclark96/gamesofcoding/blob/master/README.md#miscellaneous-1)
+### [Miscellaneous](#miscellaneous-1)
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
 - [Shenzhen I/O](#shenzhen-io)
