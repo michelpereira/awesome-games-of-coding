@@ -29,7 +29,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Elevator Saga](#elevator-saga)
 - [CodeCombat](#codecombat)
 
-### [C\#](#c#-1)
+### [C\#](#c-1)
 - [Robocode](#robocode)
 - [Code Hero](#code-hero)
 
@@ -155,7 +155,7 @@ Choose your hero and code your way through the ogre patrols, lava pits, and lase
 - [Repository](https://github.com/codecombat/codecombat)
 
 
-## C\#
+## C#
 
 ### Robocode
 
