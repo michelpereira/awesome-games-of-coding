@@ -29,7 +29,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Elevator Saga](#elevator-saga)
 - [CodeCombat](#codecombat)
 
-### [C\#](https://github.com/crclark96/gamesofcoding/blob/master/README.md#c#-1)
+### [C\#](https://github.com/crclark96/gamesofcoding/blob/master/README.md#c-1)
 - [Robocode](#robocode)
 - [Code Hero](#code-hero)
 
