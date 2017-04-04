@@ -5,7 +5,7 @@ A curated list of games that teach you a programming language
 - [Contribution guide](contributing.md)
 - [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
 
-[![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/gamesofcoding/Lobby)
+[![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/awesome-gamesofcoding/Lobby)
 
 Follow me on [Twitter](https://twitter.com/michelpereira).
 
