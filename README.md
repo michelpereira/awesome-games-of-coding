@@ -29,7 +29,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Elevator Saga](#elevator-saga)
 - [CodeCombat](#codecombat)
 
-### [C#](#c#-1)
+### [C\#](#c-1)
 - [Robocode](#robocode)
 - [Code Hero](#code-hero)
 
