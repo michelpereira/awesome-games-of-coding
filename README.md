@@ -28,6 +28,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Javascript Fight Club](#javascript-fight-club)
 - [Elevator Saga](#elevator-saga)
 - [CodeCombat](#codecombat)
+- [Untrusted](#untrusted)
 
 ### [C\#](#c-1)
 - [Robocode](#robocode)
@@ -153,6 +154,13 @@ Choose your hero and code your way through the ogre patrols, lava pits, and lase
 
 - [Website](https://codecombat.com/)
 - [Repository](https://github.com/codecombat/codecombat)
+
+### Untrusted
+
+The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
+
+- [Website](https://alexnisnevich.github.io/untrusted/)
+- [Repository](https://github.com/AlexNisnevich/untrusted)
 
 
 ## C#
