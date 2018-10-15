@@ -59,6 +59,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [RubyWarrior](#rubywarrior)
 - [CodeFights](#codefights)
 - [Mudlet](#mudlet)
+- [CSS Diner](#cssdiner)
 
 ## Language Independent
 
@@ -312,6 +313,12 @@ Mudlet is a game client that allows you to play MUDs (text-only MMORPGs). You ca
 
 - [Website](http://www.mudlet.org/)
 - [Manual](http://wiki.mudlet.org/w/Manual:Introduction)
+
+## CSS Diner
+
+CSS Diner is a CSS item arrangement game, teaching the concepts and use of CSS selectors and layout. You modify CSS to arrange HTML elements representing plates and bento boxes on a dining table.
+
+- [Website](http://flukeout.github.io/)
 
 ## License
 
