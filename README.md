@@ -75,7 +75,7 @@ CodinGame is a platform to learn and compete. Proposes a variety of multiplayer 
 
 In Vindinium, players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
 
-- [Website](http://vind-legacy.thegrid.red/)
+- [Website](https://www.codingame.com/multiplayer/bot-programming/vindinium/)
 - [Subreddit](https://www.reddit.com/r/vindinium/)
 
 ### CodeFights
