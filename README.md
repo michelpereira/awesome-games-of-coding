@@ -14,7 +14,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 ### [Language Independent](#language-independent-1)
 - [Codingame](#codingame)
 - [Vindinium](#vindinium)
-- [CodeFights](#codefights)
 
 ### [Python](#python-1)
 - [Robocode](#robocode)
@@ -77,19 +76,6 @@ In Vindinium, players write scripts in the programming language of their choice 
 
 - [Website](https://www.codingame.com/multiplayer/bot-programming/vindinium/)
 - [Subreddit](https://www.reddit.com/r/vindinium/)
-
-### CodeFights
-
-CodeFights is about improving your coding skills by solving programming challenges. You can do this in a number of different ways: 
-
-*random VS fights*: you're paired up against another random CodeFighter for a 3-round fight,
-*friendly VS fights*: you challenge (or accept a challenge from) a friend, best of 3 rounds
-*Bots and CodeBots*: automated opponents that you can challenge to 3 round fights
-*Challenges*: you solve more difficult programming problems and try to get the shortest solution
-*Tourneys*: you get matched up against multiple opponents at once
-
-- [Website](https://codefights.com/)
-
 
 ## Python
 
