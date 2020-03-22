@@ -94,11 +94,11 @@ CodeFights is about improving your coding skills by solving programming challeng
 
 ### Robocode
 
-Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
+Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
 
-- [Website](http://robocode.sourceforge.net)
-- [Repository](http://robocode.sourceforge.net)
-- [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
+- [Website](https://github.com/turkishviking/Python-Robocode)
+- [Repository](https://github.com/turkishviking/Python-Robocode)
+- [Tutorial](https://github.com/turkishviking/Python-Robocode/wiki)
 
 Programming languages: Java, Python, Node 
 
