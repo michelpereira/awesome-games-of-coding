@@ -69,6 +69,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics. 
 
 - [Website](https://www.codingame.com/home)
+- [Tutorial](https://www.codingame.com/ide/puzzle/onboarding)
 
 ### Vindinium
 
