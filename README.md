@@ -14,10 +14,10 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 ### [Language Independent](#language-independent-1)
 - [Codingame](#codingame)
 - [Vindinium](#vindinium)
+- [CodeCombat](#codecombat)
 
 ### [Python](#python-1)
 - [Robocode](#robocode)
-- [CodeCombat](#codecombat)
 
 ### [Java](#java-1)
 - [Robocode](#robocode)
@@ -26,12 +26,10 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
 - [Elevator Saga](#elevator-saga)
-- [CodeCombat](#codecombat)
 - [Untrusted](#untrusted)
 
 ### [C\#](#c-1)
 - [Robocode](#robocode)
-- [Code Hero](#code-hero)
 
 ### [Ruby](#ruby-1)
 - [RubyWarrior](#rubywarrior)
@@ -43,9 +41,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 ### [Scala](#scala-1)
 - [Robocode](#robocode)
 - [Scalatron](#scalatron)
-
-### [Lua](#lua-1)
-- [CodeCombat](#codecombat)
 
 ### [Miscellaneous](#miscellaneous-1)
 - [Corewars](#corewars)
@@ -70,6 +65,14 @@ CodinGame is a platform to learn and compete. Proposes a variety of multiplayer 
 - [Website](https://www.codingame.com/home)
 - [Tutorial](https://www.codingame.com/ide/puzzle/onboarding)
 
+### CodeCombat
+
+Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
+
+- [Website](https://codecombat.com/)
+- [Repository](https://github.com/codecombat/codecombat)
+
+
 ### Vindinium
 
 In Vindinium, players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
@@ -89,14 +92,6 @@ Robocode is a programming game, where the goal is to develop a robot battle tank
 
 Programming languages: Java, Python, Node 
 
-### CodeCombat
-
-Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
-
-- [Website](https://codecombat.com/)
-- [Repository](https://github.com/codecombat/codecombat)
-
-
 ## Java
 
 ### Robocode
@@ -104,7 +99,7 @@ Choose your hero and code your way through the ogre patrols, lava pits, and lase
 Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
 
 - [Website](http://robocode.sourceforge.net)
-- [Repository](http://robocode.sourceforge.net)
+- [Repository](http://sourceforge.net/project/showfiles.php?group_id=37202)
 - [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
 
 Programming languages: Java, Python, Node 
@@ -135,13 +130,7 @@ Screeps is about scripting your creeps. No point’n’clicking any longer! You 
 Write Javascript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
 
 - [Website](http://play.elevatorsaga.com/)
-
-### CodeCombat
-
-Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
-
-- [Website](https://codecombat.com/)
-- [Repository](https://github.com/codecombat/codecombat)
+- [Documentation](http://play.elevatorsaga.com/documentation.html#docs)
 
 ### Untrusted
 
@@ -150,16 +139,15 @@ The game presents you with a roguelike-like playing environment and a console wi
 - [Website](https://alexnisnevich.github.io/untrusted/)
 - [Repository](https://github.com/AlexNisnevich/untrusted)
 
-
 ## C#
 
 ### Robocode
 
 Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
 
-- [Website](http://robocode.sourceforge.net)
-- [Repository](http://robocode.sourceforge.net)
-- [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
+- [Website](https://github.com/turkishviking/Python-Robocode)
+- [Repository](https://github.com/turkishviking/Python-Robocode)
+- [Tutorial](https://github.com/turkishviking/Python-Robocode/wiki)
 
 Programming languages: Java, Python, Node
 
@@ -168,9 +156,9 @@ Programming languages: Java, Python, Node
 Code Hero is a game making game that teaches you how to make games. It is a first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
 
 - [Website](http://www.codehero.org)
+- [Download](https://codeherogame.wordpress.com/download/)
 
 Programming languages: C#, Unity
-
 
 ## Ruby
 
@@ -180,7 +168,6 @@ RubyWarrior is a browser based game where you control your avatar through variou
 
 - [Website](https://www.bloc.io/ruby-warrior)
 
-
 ## Assembly
 
 ### Embedded Security CTF
@@ -188,13 +175,14 @@ RubyWarrior is a browser based game where you control your avatar through variou
 Embedded Security CTF is a game in which you bypass a series of locks, essentially hacking them, in order to get through a series of warehouses.
 
 - [Website](https://microcorruption.com/)
+- [Manual](https://microcorruption.com/manual.pdf)
 
 ### Box-256
 
 Box-256 is a game about writing assembly code to match a shown graphic.
 
 - [Website](http://box-256.com/)
-- [Manual](http://box-256.com/manual/index.html)
+- [Manual](http://box-256.com/manual/)
 
 
 ## Scala
@@ -203,11 +191,8 @@ Box-256 is a game about writing assembly code to match a shown graphic.
 
 Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
 
-- [Website](http://robocode.sourceforge.net)
-- [Repository](http://robocode.sourceforge.net)
-- [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
-
-Programming languages: Java, Python, Node 
+- [Website](https://github.com/d6y/scala-robot-dev)
+- [Repository](https://github.com/d6y/scala-robot-dev)
 
 ### Scalatron
 
@@ -216,17 +201,6 @@ Scalatron is a multi-player programming game in which coders pit bot programs (w
 - [Website](http://scalatron.github.io/)
 - [Repository](https://github.com/scalatron/scalatron)
 - [Tutorial](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md)
-
-
-## Lua
-
-### CodeCombat
-
-Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
-
-- [Website](https://codecombat.com/)
-- [Repository](https://github.com/codecombat/codecombat)
-
 
 ## Miscellaneous
 
@@ -241,7 +215,9 @@ generals.io is a fast-paced strategy game where you expand your land and battle 
 
 Robo Dojo is a game in which you build robots that build, corrupt and destroy other robots in an attempt to eliminate all competitors.
 
-- [Website](http://robodojo.club/doc/)
+- [Website](http://robodojo.club/)
+- [Repository](https://github.com/mikegagnon/robodojo/)
+- [Documentation](http://robodojo.club/doc/)
 
 ### Corewars
 
@@ -262,7 +238,7 @@ TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceC
 ### Shenzhen I/O
 
 Shenzhen I/O is a game in which you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates, and then write code in a compact and powerful assembly language where every instruction can be conditionally executed.
-
+_
 - [Website](http://www.zachtronics.com/shenzhen-io/)
 
 ### MHRD
@@ -277,16 +253,6 @@ Colobot is a 3D video game where you program your bots to ride, fly, find, bring
 
 - [Website](https://colobot.info/)
 - [Repository](https://github.com/colobot/colobot)
-
-### Empire of Code
-
-"Empire of Code is a space game with a mix of strategy, tactics and coding." The game is Browser based and requires a free account. After account creation you have to choose your team: Python vs. JavaScript!
-
-*Build*: Improve algorithms so that your factories produce more effectively  
-*Conquer*: Code your defense strategies to protect your base from encroaching enemies  
-*Rule by Code*: Develop a bot to attack other players, steal their resources and... their algorithms.
-
-- [Website](https://empireofcode.com/game/)
 
 ### CodeGames
 
@@ -307,6 +273,7 @@ Mudlet is a game client that allows you to play MUDs (text-only MMORPGs). You ca
 *Interaction*: or maybe even go all the way and completely automate your character and their interactions?
 
 - [Website](http://www.mudlet.org/)
+- [Download](https://www.mudlet.org/download/)
 - [Manual](http://wiki.mudlet.org/w/Manual:Introduction)
 
 ## CSS Diner
