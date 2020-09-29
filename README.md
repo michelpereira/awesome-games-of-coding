@@ -15,6 +15,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [Codingame](#codingame)
 - [Vindinium](#vindinium)
 - [CodeCombat](#codecombat)
+- [RealTimeBattle](#realtimebattle)
 
 ### [Python](#python-1)
 - [Robocode](#robocode)
@@ -55,6 +56,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [CodeFights](#codefights)
 - [Mudlet](#mudlet)
 - [CSS Diner](#css-diner)
+- [Guido van Robot](#guido-van-Robot)
 
 ## Language Independent
 
@@ -79,6 +81,12 @@ In Vindinium, players write scripts in the programming language of their choice 
 
 - [Website](https://www.codingame.com/multiplayer/bot-programming/vindinium/)
 - [Subreddit](https://www.reddit.com/r/vindinium/)
+
+## RealTimeBattle
+
+RealTimeBattle is a programming game, in which robots controlled by programs are fighting each other. The goal is to destroy the enemies, using the radar to examine the environment and the cannon to shoot. 
+
+- [Website](http://realtimebattle.sourceforge.net/)
 
 ## Python
 
@@ -282,6 +290,12 @@ CSS Diner is a CSS item arrangement game, teaching the concepts and use of CSS s
 
 - [Website](http://flukeout.github.io/)
 - [Repository](https://github.com/flukeout/css-diner)
+
+## Guido van Robot
+
+Guido van Robot, or GvR for short, is a programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming. 
+
+- [Website](http://gvr.sourceforge.net/)
 
 ## License
 
