@@ -3,7 +3,6 @@
 A curated list of games that teach you a programming language
 
 - [Contribution guide](contributing.md)
-- [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
 
 Follow me on [Twitter](https://twitter.com/michelpereira).
 
