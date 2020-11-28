@@ -1,7 +1,4 @@
-# Games of Coding
-
-# [![Games of Coding](https://awesome.re/badge.svg)](https://github.com/michelpereira/awesome-gamesofcoding)
-
+# Games of Coding [![Games of Coding](https://awesome.re/badge.svg)](https://github.com/michelpereira/awesome-gamesofcoding)
 
 A curated list of games that teach you a programming language
 
