@@ -1,10 +1,11 @@
 # Games of Coding
 
+# [![Games of Coding](https://awesome.re/badge.svg)](https://github.com/michelpereira/awesome-gamesofcoding)
+
+
 A curated list of games that teach you a programming language
 
 - [Contribution guide](contributing.md)
-
-Follow me on [Twitter](https://twitter.com/michelpereira).
 
 ## Table of Contents
 
@@ -297,3 +298,5 @@ Guido van Robot, or GvR for short, is a programming language and free software a
 ## License
 
 To the extent possible under law, [Michel Pereira](https://www.linkedin.com/in/michelpereira) has waived all copyright and related or neighboring rights to this work.
+
+Follow me on [Twitter](https://twitter.com/michelpereira).
