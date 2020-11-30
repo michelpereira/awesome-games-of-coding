@@ -1,15 +1,49 @@
 # Games of Coding
 
-A curated list of games that teach you a programming language
+A curated list of games that teach you a programming language. They are called too [Programming Games](https://en.wikipedia.org/wiki/Programming_game)
 
-- [Contribution guide](contributing.md)
-- [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
+# Table of Contents
+
+- [Community](#community)
+- [Open source](#open-source)
+  - [Java](#java)
+  - [.Net](#.net)
+- close source
+  - aaa
+  - aaa
+- Other resources
+
+------
+
+# Community
+
+- [Programming games on Reddit](https://www.reddit.com/r/programminggames/)
+-  [Contribution guide](contributing.md)
+-  [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
 
 [![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/awesome-gamesofcoding/Lobby)
 
 Follow me on [Twitter](https://twitter.com/michelpereira).
 
-## Table of Contents
+# open source
+
+## Java
+ - [Robocode](#robocode)
+
+## .Net
+ - [Robocode](#robocode)
+
+### Robocode
+
+Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
+
+- [Website](http://robocode.sourceforge.net)
+- [Repository](http://sourceforge.net/project/showfiles.php?group_id=37202)
+- [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
+
+------
+
+
 
 ### [Language Independent](#language-independent-1)
 - [Codingame](#codingame)
@@ -17,9 +51,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [CodeCombat](#codecombat)
 
 ### [Python](#python-1)
-- [Robocode](#robocode)
-
-### [Java](#java-1)
 - [Robocode](#robocode)
 
 ### [JavaScript](#javascript-1)
@@ -57,6 +88,8 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 - [CSS Diner](#css-diner)
 
 ## Language Independent
+
+------
 
 ### Codingame
 
