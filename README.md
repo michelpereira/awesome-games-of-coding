@@ -6,39 +6,39 @@ A curated list of games that teach you a programming language
 
 ## Table of Contents
 
-### [Language Independent](#language-independent-1)
+### [Language Independent](#language-independent)
 - [Codingame](#codingame)
 - [Vindinium](#vindinium)
 - [CodeCombat](#codecombat)
 - [RealTimeBattle](#realtimebattle)
 
-### [Python](#python-1)
+### [Python](#python)
 - [Robocode](#robocode)
 
-### [Java](#java-1)
-- [Robocode](#robocode)
+### [Java](#java)
+- [Robocode](#robocode-2)
 
-### [JavaScript](#javascript-1)
+### [JavaScript](#javascript)
 - [Screeps](#screeps)
 - [Javascript Fight Club](#javascript-fight-club)
 - [Elevator Saga](#elevator-saga)
 - [Untrusted](#untrusted)
 
-### [C\#](#c-1)
+### [C\#](#c)
 - [Robocode](#robocode)
 
-### [Ruby](#ruby-1)
+### [Ruby](#ruby)
 - [RubyWarrior](#rubywarrior)
 
-### [Assembly](#assembly-1)
+### [Assembly](#assembly)
 - [Embedded Security CTF](#embedded-security-ctf)
 - [Box-256](#box-256)
 
-### [Scala](#scala-1)
+### [Scala](#scala)
 - [Robocode](#robocode)
 - [Scalatron](#scalatron)
 
-### [Miscellaneous](#miscellaneous-1)
+### [Miscellaneous](#miscellaneous)
 - [Corewars](#corewars)
 - [TIS-100](#tis-100)
 - [Shenzhen I/O](#shenzhen-io)
