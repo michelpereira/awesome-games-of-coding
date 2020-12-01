@@ -7,10 +7,12 @@ A curated list of games that teach you a programming language. They are called t
 - [Community](#community)
 - [Open source](#open-source)
   - [Java](#java)
+  - [Language Independent](#language-independent)
+  - [Python](#python)
   - [.Net](#.net)
-- close source
-  - aaa
-  - aaa
+- [Close source](#close-source)
+  - [Language Independent](#language-independent-1)
+- Game List
 - Other resources
 
 ------
@@ -26,32 +28,59 @@ A curated list of games that teach you a programming language. They are called t
 Follow me on [Twitter](https://twitter.com/michelpereira).
 
 # open source
-
 ## Java
  - [Robocode](#robocode)
-
+## Python
+ - [Python-Robocode](#python-robocode)
 ## .Net
  - [Robocode](#robocode)
+## Language Independent
 
-### Robocode
 
+# Close source
+## Language Independent
+ - [CodeCombat](#codecombat)
+ - [Codingame](#codingame)
+ - [Vindinium](#vindinium)
+
+# Game List
+
+## CodeCombat
+Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
+
+- [Website](https://codecombat.com/)
+- [Repository](https://github.com/codecombat/codecombat)
+
+## Codingame
+CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics. 
+
+- [Website](https://www.codingame.com/home)
+- [Tutorial](https://www.codingame.com/ide/puzzle/onboarding)
+
+## Python-Robocode
+Python-Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in python. The robot battles are running in real-time and on-screen. It is a fork of Robocode for support python.
+
+- [Website](https://github.com/turkishviking/Python-Robocode)
+- [Repository](https://github.com/turkishviking/Python-Robocode)
+- [Tutorial](https://github.com/turkishviking/Python-Robocode/wiki)
+
+## Robocode
 Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
 
 - [Website](http://robocode.sourceforge.net)
 - [Repository](http://sourceforge.net/project/showfiles.php?group_id=37202)
 - [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
 
-------
+
+## Vindinium
+In Vindinium, players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
+
+- [Website](https://www.codingame.com/multiplayer/bot-programming/vindinium/)
+- [Subreddit](https://www.reddit.com/r/vindinium/)
 
 
 
-### [Language Independent](#language-independent-1)
-- [Codingame](#codingame)
-- [Vindinium](#vindinium)
-- [CodeCombat](#codecombat)
-
-### [Python](#python-1)
-- [Robocode](#robocode)
+------------------------------------------------------------------------
 
 ### [JavaScript](#javascript-1)
 - [Screeps](#screeps)
@@ -91,53 +120,6 @@ Robocode is a programming game, where the goal is to develop a robot battle tank
 
 ------
 
-### Codingame
-
-CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics. 
-
-- [Website](https://www.codingame.com/home)
-- [Tutorial](https://www.codingame.com/ide/puzzle/onboarding)
-
-### CodeCombat
-
-Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
-
-- [Website](https://codecombat.com/)
-- [Repository](https://github.com/codecombat/codecombat)
-
-
-### Vindinium
-
-In Vindinium, players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
-
-- [Website](https://www.codingame.com/multiplayer/bot-programming/vindinium/)
-- [Subreddit](https://www.reddit.com/r/vindinium/)
-
-## Python
-
-### Robocode
-
-Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
-
-- [Website](https://github.com/turkishviking/Python-Robocode)
-- [Repository](https://github.com/turkishviking/Python-Robocode)
-- [Tutorial](https://github.com/turkishviking/Python-Robocode/wiki)
-
-Programming languages: Java, Python, Node 
-
-## Java
-
-### Robocode
-
-Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
-
-- [Website](http://robocode.sourceforge.net)
-- [Repository](http://sourceforge.net/project/showfiles.php?group_id=37202)
-- [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
-
-Programming languages: Java, Python, Node 
-
-
 ## JavaScript
 
 ### Screeps
@@ -174,15 +156,7 @@ The game presents you with a roguelike-like playing environment and a console wi
 
 ## C#
 
-### Robocode
 
-Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
-
-- [Website](https://github.com/turkishviking/Python-Robocode)
-- [Repository](https://github.com/turkishviking/Python-Robocode)
-- [Tutorial](https://github.com/turkishviking/Python-Robocode/wiki)
-
-Programming languages: Java, Python, Node
 
 ### Code Hero
 
