@@ -44,18 +44,8 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
  - [Vindinium](#vindinium)
 
 # Game List
-
-## CodeCombat
-Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
-
-- [Website](https://codecombat.com/)
-- [Repository](https://github.com/codecombat/codecombat)
-
-## Codingame
-CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics. 
-
-- [Website](https://www.codingame.com/home)
-- [Tutorial](https://www.codingame.com/ide/puzzle/onboarding)
+ - <a name="codecombat" />[CodeCombat](https://codecombat.com/) ([repo](https://github.com/codecombat/codecombat)): Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
+ - <a name="codingame" />[Codingame](https://www.codingame.com/home) ([Tutorial](https://www.codingame.com/ide/puzzle/onboarding)): CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.
 
 ## Python-Robocode
 Python-Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in python. The robot battles are running in real-time and on-screen. It is a fork of Robocode for support python.
