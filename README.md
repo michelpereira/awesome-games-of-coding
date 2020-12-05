@@ -10,10 +10,10 @@ A curated list of games that teach you a programming language. They are called t
   - [Language Independent](#language-independent)
   - [Python](#python)
   - [.Net](#.net)
+  - [Scala](#scala)
 - [Close source](#close-source)
   - [Language Independent](#language-independent-1)
-- Game List
-- Other resources
+- [Game List](#game-list)
 
 ------
 
@@ -34,6 +34,8 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
  - [Python-Robocode](#python-robocode)
 ## .Net
  - [Robocode](#robocode)
+## Scala
+ - [Robocode Scala](#robocode-scala)
 ## Language Independent
 
 
@@ -44,29 +46,21 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
  - [Vindinium](#vindinium)
 
 # Game List
- - <a name="codecombat" />[CodeCombat](https://codecombat.com/) ([repo](https://github.com/codecombat/codecombat)): Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
- - <a name="codingame" />[Codingame](https://www.codingame.com/home) ([Tutorial](https://www.codingame.com/ide/puzzle/onboarding)): CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.
-
-## Python-Robocode
-Python-Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in python. The robot battles are running in real-time and on-screen. It is a fork of Robocode for support python.
-
-- [Website](https://github.com/turkishviking/Python-Robocode)
-- [Repository](https://github.com/turkishviking/Python-Robocode)
-- [Tutorial](https://github.com/turkishviking/Python-Robocode/wiki)
-
-## Robocode
-Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
-
-- [Website](http://robocode.sourceforge.net)
-- [Repository](http://sourceforge.net/project/showfiles.php?group_id=37202)
-- [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
-
-
-## Vindinium
-In Vindinium, players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
-
-- [Website](https://www.codingame.com/multiplayer/bot-programming/vindinium/)
-- [Subreddit](https://www.reddit.com/r/vindinium/)
+ - <a name="codecombat" />[CodeCombat](https://codecombat.com/): Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
+   - [Repository](https://github.com/codecombat/codecombat)
+ - <a name="codingame" />[Codingame](https://www.codingame.com/home): CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.
+   - [Tutorial](https://www.codingame.com/ide/puzzle/onboarding)
+ - <a name="python-robocode" />[Python-Robocode](https://github.com/turkishviking/Python-Robocode): is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in python. The robot battles are running in real-time and on-screen. It is a fork of Robocode for support python.
+   - [Repository](https://github.com/turkishviking/Python-Robocode)
+   - [Tutorial](https://github.com/turkishviking/Python-Robocode/wiki)
+ - <a name="robocode" />[Robocode](http://robocode.sourceforge.net) is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
+   - [Repository](http://sourceforge.net/project/showfiles.php?group_id=37202)
+   - [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
+ - <a name="robocode-scala" />[Robocode Scala](https://github.com/d6y/scala-robot-dev): is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
+   - [Repository](https://github.com/d6y/scala-robot-dev)
+ - <a name="vindinium" />[Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium/)
+: the players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
+   - [Subreddit](https://www.reddit.com/r/vindinium/)
 
 
 
@@ -183,13 +177,6 @@ Box-256 is a game about writing assembly code to match a shown graphic.
 
 
 ## Scala
-
-### Robocode
-
-Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
-
-- [Website](https://github.com/d6y/scala-robot-dev)
-- [Repository](https://github.com/d6y/scala-robot-dev)
 
 ### Scalatron
 
