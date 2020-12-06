@@ -32,6 +32,7 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
  - [Robocode](#robocode)
 ## Javascript
  - [Javascript Fight Club](#javascript-fight-club)
+ - [Elevator Saga](#elevator-saga)
  - [Screeps](#screeps)
 ## Python
  - [Python-Robocode](#python-robocode)
@@ -53,6 +54,9 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
    - [Repository](https://github.com/codecombat/codecombat)
  - <a name="codingame" />[Codingame](https://www.codingame.com/home): CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.
    - [Tutorial](https://www.codingame.com/ide/puzzle/onboarding)
+  - <name="elevator-saga"[Elevator Saga](http://play.elevatorsaga.com/): Write Javascript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
+    - [Repository](https://github.com/magwo/elevatorsaga)
+    - [Documentation](http://play.elevatorsaga.com/documentation.html#docs)
  - <a name="javascript-fight-club" />[Javascript Fight Club](https://jsfight.club/): "The Red King and the Blue King are at war! Your Javascript skills are needed to determine the victor: Can you code an effective AI for honor and glory?"
    - [Repository](https://github.com/JSJitsu/hero-starter)
    - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
@@ -110,13 +114,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 ------
 
 ## JavaScript
-
-### Elevator Saga
-
-Write Javascript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
-
-- [Website](http://play.elevatorsaga.com/)
-- [Documentation](http://play.elevatorsaga.com/documentation.html#docs)
 
 ### Untrusted
 
