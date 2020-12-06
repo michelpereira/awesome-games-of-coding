@@ -30,6 +30,9 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 # open source
 ## Java
  - [Robocode](#robocode)
+## Javascript
+ - [Javascript Fight Club](#javascript-fight-club)
+ - [Screeps](#screeps)
 ## Python
  - [Python-Robocode](#python-robocode)
 ## .Net
@@ -50,6 +53,9 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
    - [Repository](https://github.com/codecombat/codecombat)
  - <a name="codingame" />[Codingame](https://www.codingame.com/home): CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.
    - [Tutorial](https://www.codingame.com/ide/puzzle/onboarding)
+ - <a name="javascript-fight-club" />[Javascript Fight Club](https://jsfight.club/): "The Red King and the Blue King are at war! Your Javascript skills are needed to determine the victor: Can you code an effective AI for honor and glory?"
+   - [Repository](https://github.com/JSJitsu/hero-starter)
+   - [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
  - <a name="python-robocode" />[Python-Robocode](https://github.com/turkishviking/Python-Robocode): is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in python. The robot battles are running in real-time and on-screen. It is a fork of Robocode for support python.
    - [Repository](https://github.com/turkishviking/Python-Robocode)
    - [Tutorial](https://github.com/turkishviking/Python-Robocode/wiki)
@@ -58,17 +64,16 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
    - [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
  - <a name="robocode-scala" />[Robocode Scala](https://github.com/d6y/scala-robot-dev): is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
    - [Repository](https://github.com/d6y/scala-robot-dev)
+ - <a name="screeps" />[Screeps](https://screeps.com/): is about scripting your creeps. No point’n’clicking any longer! You write real JavaScript* which controls your units autonomously. Any time, everywhere, even while you are offline.
+ (* Or any other language using compilers.)
+   - [Repository](https://github.com/screeps/screeps)
+   - [Tutorial](https://screeps.com/a/#!/sim/tutorial)
  - <a name="vindinium" />[Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium/)
 : the players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
    - [Subreddit](https://www.reddit.com/r/vindinium/)
-
-
-
 ------------------------------------------------------------------------
 
 ### [JavaScript](#javascript-1)
-- [Screeps](#screeps)
-- [Javascript Fight Club](#javascript-fight-club)
 - [Elevator Saga](#elevator-saga)
 - [Untrusted](#untrusted)
 
@@ -105,24 +110,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 ------
 
 ## JavaScript
-
-### Screeps
-
-Screeps is about scripting your creeps. No point’n’clicking any longer! You write real JavaScript* which controls your units autonomously. Any time, everywhere, even while you are offline.
-
-(* Or any other language using compilers.)
-
-- [Website](https://screeps.com/)
-- [Repository](https://github.com/screeps/screeps)
-- [Tutorial](https://screeps.com/a/#!/sim/tutorial)
-
-### Javascript Fight Club
-
-"The Red King and the Blue King are at war! Your Javascript skills are needed to determine the victor: Can you code an effective AI for honor and glory?"
-
-- [Website](https://jsfight.club/)
-- [Repository](https://github.com/JSJitsu/hero-starter)
-- [Tutorial](https://github.com/JSJitsu/hero-starter#getting-started)
 
 ### Elevator Saga
 
