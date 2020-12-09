@@ -13,6 +13,7 @@ A curated list of games that teach you a programming language. They are called t
   - [Scala](#scala)
 - [Close source](#close-source)
   - [Language Independent](#language-independent-1)
+  - [.Net](#net-1)
 - [Game List](#game-list)
 
 ------
@@ -34,16 +35,20 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
  - [Javascript Fight Club](#javascript-fight-club)
  - [Elevator Saga](#elevator-saga)
  - [Screeps](#screeps)
+ - [Untrusted](#untrusted)
 ## Python
  - [Python-Robocode](#python-robocode)
 ## .Net
  - [Robocode](#robocode)
 ## Scala
  - [Robocode Scala](#robocode-scala)
+ - [Scalatron](#scalatron)
 ## Language Independent
 
 
 # Close source
+## .Net
+ - [Code Hero](#code-hero)
 ## Language Independent
  - [CodeCombat](#codecombat)
  - [Codingame](#codingame)
@@ -52,9 +57,11 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 # Game List
  - <a name="codecombat" />[CodeCombat](https://codecombat.com/): Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
    - [Repository](https://github.com/codecombat/codecombat)
+ - <a name="code-hero" />[Code Hero](http://www.codehero.org): Code Hero is a game making game that teaches you how to make games. It is a first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
+   - [Download](https://codeherogame.wordpress.com/download/)
  - <a name="codingame" />[Codingame](https://www.codingame.com/home): CodinGame is a platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.
    - [Tutorial](https://www.codingame.com/ide/puzzle/onboarding)
-  - <name="elevator-saga"[Elevator Saga](http://play.elevatorsaga.com/): Write Javascript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
+ - <a name="elevator-saga" />[Elevator Saga](http://play.elevatorsaga.com/): Write Javascript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
     - [Repository](https://github.com/magwo/elevatorsaga)
     - [Documentation](http://play.elevatorsaga.com/documentation.html#docs)
  - <a name="javascript-fight-club" />[Javascript Fight Club](https://jsfight.club/): "The Red King and the Blue King are at war! Your Javascript skills are needed to determine the victor: Can you code an effective AI for honor and glory?"
@@ -68,21 +75,19 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
    - [Tutorial](http://robowiki.net/wiki/Robocode_Basics)
  - <a name="robocode-scala" />[Robocode Scala](https://github.com/d6y/scala-robot-dev): is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
    - [Repository](https://github.com/d6y/scala-robot-dev)
+ - <a name="scalatron" />[Scalatron](http://scalatron.github.io/): is a multi-player programming game in which coders pit bot programs (written in Scala) against each other. It is an educational resource for groups of programmers or individuals that want to learn more about the Scala programming language or want to hone their Scala programming skills.
+  - [Repository](https://github.com/scalatron/scalatron)
+  - [Tutorial](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md)
  - <a name="screeps" />[Screeps](https://screeps.com/): is about scripting your creeps. No point’n’clicking any longer! You write real JavaScript* which controls your units autonomously. Any time, everywhere, even while you are offline.
  (* Or any other language using compilers.)
    - [Repository](https://github.com/screeps/screeps)
    - [Tutorial](https://screeps.com/a/#!/sim/tutorial)
+ - <a name="untrusted" />[Untrusted](https://alexnisnevich.github.io/untrusted/): The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
+  - [Repository](https://github.com/AlexNisnevich/untrusted)
  - <a name="vindinium" />[Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium/)
 : the players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
    - [Subreddit](https://www.reddit.com/r/vindinium/)
 ------------------------------------------------------------------------
-
-### [JavaScript](#javascript-1)
-- [Elevator Saga](#elevator-saga)
-- [Untrusted](#untrusted)
-
-### [C\#](#c-1)
-- [Robocode](#robocode)
 
 ### [Ruby](#ruby-1)
 - [RubyWarrior](#rubywarrior)
@@ -90,10 +95,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 ### [Assembly](#assembly-1)
 - [Embedded Security CTF](#embedded-security-ctf)
 - [Box-256](#box-256)
-
-### [Scala](#scala-1)
-- [Robocode](#robocode)
-- [Scalatron](#scalatron)
 
 ### [Miscellaneous](#miscellaneous-1)
 - [Corewars](#corewars)
@@ -112,28 +113,6 @@ Follow me on [Twitter](https://twitter.com/michelpereira).
 ## Language Independent
 
 ------
-
-## JavaScript
-
-### Untrusted
-
-The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
-
-- [Website](https://alexnisnevich.github.io/untrusted/)
-- [Repository](https://github.com/AlexNisnevich/untrusted)
-
-## C#
-
-
-
-### Code Hero
-
-Code Hero is a game making game that teaches you how to make games. It is a first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
-
-- [Website](http://www.codehero.org)
-- [Download](https://codeherogame.wordpress.com/download/)
-
-Programming languages: C#, Unity
 
 ## Ruby
 
@@ -158,17 +137,6 @@ Box-256 is a game about writing assembly code to match a shown graphic.
 
 - [Website](http://box-256.com/)
 - [Manual](http://box-256.com/manual/)
-
-
-## Scala
-
-### Scalatron
-
-Scalatron is a multi-player programming game in which coders pit bot programs (written in Scala) against each other. It is an educational resource for groups of programmers or individuals that want to learn more about the Scala programming language or want to hone their Scala programming skills.
-
-- [Website](http://scalatron.github.io/)
-- [Repository](https://github.com/scalatron/scalatron)
-- [Tutorial](https://github.com/scalatron/scalatron/blob/master/Scalatron/doc/markdown/Scalatron%20Tutorial.md)
 
 ## Miscellaneous
 
