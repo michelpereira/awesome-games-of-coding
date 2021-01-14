@@ -2,50 +2,33 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-## Table of Contents
+---
 
-- [Adding to this list](#adding-to-this-list)
-- [Creating your own awesome list](#creating-your-own-awesome-list)
-- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
-- [Updating your Pull Request](#updating-your-pull-request)
+Ensure your pull request adheres to the following guidelines:
 
-## Adding to this list
-
-Please ensure your pull request adheres to the following guidelines:
-
+- **The submitted project should be more than 30 days old and the repo should have at least 40 stars.**
+- Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
+- Keep in mind that the list is very mature by now, so the bar of getting something accepted is high. Only submit something unique and generally useful. The world (and this list) doesn't need yet another ORM or framework. For CLI tools, the bar is especially high, and unless it's something very awesome, I would suggest submitting to [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) instead.
+- If you submit a project that is similar to an existing project in the list, argue how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
+- Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[List Name](link)`
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
+- Use the following format: `[package](link) - Description.`
+- Additions should be added to the bottom of the relevant category.
+- Link to the GitHub repo, not npmjs.com or its website.
+- Keep descriptions short and simple, but descriptive.
+- Descriptions should not be marketing taglines.
+- Descriptions should not be title-case.
+- Don't mention `Node.js` in the description as it's implied.
+- Start the description with a capital and end with a full stop/period.
+- Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
+- The pull request should have a useful title and include a link to the package and why it should be included.
+- New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
 
-Thank you for your suggestions!
+Thank you for your suggestion!
 
-## Creating your own awesome list
+### Updating your PR
 
-To create your own list, check out the [instructions](create-list.md).
-
-## Adding something to an awesome list
-
-If you have something awesome to contribute to an awesome list, this is how you do it.
-
-You'll need a [GitHub account](https://github.com/join)!
-
-1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
-
-## Updating your Pull Request
-
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
-
-[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
