@@ -67,16 +67,16 @@
 ## Miscellaneous
 
 - [Generals IO](http://generals.io) - It's a fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
-- [Robo Dojo](http://robodojo.club) - A game in which you build robots that build, corrupt and destroy other robots in an attempt to eliminate all competitors.
+- [Robo Dojo](http://robodojo.club) - You build robots that build, corrupt and destroy other robots in an attempt to eliminate all competitors.
 - [Corewars](http://www.corewars.org) - It's a game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.
-- [TIS-100](http://www.zachtronics.com/tis-100) - An open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It's the assembly language programming game you never asked for!
+- [TIS-100](http://www.zachtronics.com/tis-100) - Open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It's the assembly language programming game you never asked for!
 - [Shenzhen I/O](http://www.zachtronics.com/shenzhen-io) - You build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates, and then write code in a compact and powerful assembly language where every instruction can be conditionally executed.
 - [MHRD](http://store.steampowered.com/app/576030) - Hardware design game, in which you design various hardware circuits in a hardware description language. The hardware circuits you design get more complex as you go until you create a fully functional CPU design.
-- [Colobot](https://colobot.info) - A 3D video game where you program your bots to ride, fly, find, bring, refuel and destroy. Game is using a language called CBOT, similar to C++ and Java. Colobot offers tutorialed campaign with gradually harder tasks or you can play scenarios to challenge your skill.
+- [Colobot](https://colobot.info) - 3D video game where you program your bots to ride, fly, find, bring, refuel and destroy. Game is using a language called CBOT, similar to C++ and Java. Colobot offers tutorialed campaign with gradually harder tasks or you can play scenarios to challenge your skill.
 - [Code Games](http://codegames.io/en) - Real time programming game where you compete against other players by coding the behaviour of a space ship. The programming language is easy to learn and the game is super fun. Subscribe to one of our tournaments and compete for the prize.
 - [Mudlet](http://www.mudlet.org) - Game client that allows you to play MUDs (text-only MMORPGs). You can write Lua code in Mudlet to help you play MUDs.
 - [CSS Diner](http://flukeout.github.io) - It's a CSS item arrangement game, teaching the concepts and use of CSS selectors and layout. You modify CSS to arrange HTML elements representing plates and bento boxes on a dining table.
-- [Guido van Robot](http://gvr.sourceforge.net) - A programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming. 
+- [Guido van Robot](http://gvr.sourceforge.net) - Programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming. 
 
 
 ## Contribute
