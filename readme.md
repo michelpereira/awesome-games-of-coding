@@ -1,6 +1,6 @@
 # Games of Coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of games that teach you a programming language
+> A curated list of games that teach you a programming language.
 
 
 ## Contents
