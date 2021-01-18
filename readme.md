@@ -45,7 +45,7 @@
 ## C Sharp
 
 - [Robocode](http://robocode.sourceforge.io/robocode.dotnet) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
-- [Code Hero](http://www.codehero.org) - It is a first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
+- [Code Hero](http://www.codehero.org) - A first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
 
 
 ## Ruby
