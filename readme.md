@@ -22,6 +22,7 @@
 - [CodeCombat](https://codecombat.com) - Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
 - [Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium) - Players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
 - [RealTimeBattle](http://realtimebattle.sourceforge.net) - A programming game in which robots controlled by programs are fighting each other. The goal is to destroy the enemies, using the radar to examine the environment and the cannon to shoot. 
+- [Battlesnake](https://play.battlesnake.com) - Join a community of developers from around the world as you compete for fame and glory in Battlesnake, a multi-player programming competition based on the classic game - snake! All you need to play is a live web server that implements the Battlesnake API and the language of your choice to begin battling to find food, avoid other Battlesnakes, and stay alive as long as possible.
 
 
 ## Python
