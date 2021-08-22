@@ -77,7 +77,8 @@
 - [Code Games](http://codegames.io/en) - Real time programming game where you compete against other players by coding the behaviour of a space ship. The programming language is easy to learn and the game is super fun. Subscribe to one of our tournaments and compete for the prize.
 - [Mudlet](http://www.mudlet.org) - Game client that allows you to play MUDs (text-only MMORPGs). You can write Lua code in Mudlet to help you play MUDs.
 - [CSS Diner](http://flukeout.github.io) - A CSS item arrangement game, teaching the concepts and use of CSS selectors and layout. You modify CSS to arrange HTML elements representing plates and bento boxes on a dining table.
-- [Guido van Robot](http://gvr.sourceforge.net) - Programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming. 
+- [Guido van Robot](http://gvr.sourceforge.net) - Programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming.
+- [CSSBattle](https://cssbattle.dev) -  Online CSS Code Golfing battleground. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
 
 
 ## Contribute
