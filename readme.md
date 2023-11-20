@@ -18,6 +18,7 @@
 
 ## Language Independent
 
+- [Lambda Spellcrafting Academy](https://www.bittwiddlegames.com/lambda-spellcrafting-academy/) - A visual programming / puzzle game where you build spells to solve puzzles. Covers introductory programming, as well as some data structures and algorithms. The language is inspired by Lisp, but the game focuses on programming fundamentals that apply to most languages.
 - [Codingame](https://www.codingame.com/home) - A platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics. 
 - [CodeCombat](https://codecombat.com) - Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
 - [Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium) - Players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
