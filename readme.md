@@ -10,7 +10,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [C Sharp](#c-sharp)
-- [Ruby](#ruby)
 - [Assembly](#assembly)
 - [Scala](#scala)
 - [Miscellaneous](#miscellaneous)
@@ -50,11 +49,6 @@
 
 - [Robocode](http://robocode.sourceforge.io/robocode.dotnet) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
 - [Code Hero](http://www.codehero.org) - A first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
-
-
-## Ruby
-
-- [RubyWarrior](https://www.bloc.io/ruby-warrior) - A browser based game where you control your avatar through various levels filled with enemies using Ruby.
 
 ## Assembly
 
