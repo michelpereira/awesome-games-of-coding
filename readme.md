@@ -10,7 +10,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [C Sharp](#c-sharp)
-- [Ruby](#ruby)
 - [Assembly](#assembly)
 - [Scala](#scala)
 - [Miscellaneous](#miscellaneous)
@@ -52,10 +51,6 @@
 
 - [Robocode](http://robocode.sourceforge.io/robocode.dotnet) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
 
-## Ruby
-
-- [RubyWarrior](https://www.bloc.io/ruby-warrior) - A browser based game where you control your avatar through various levels filled with enemies using Ruby.
-
 ## Assembly
 
 - [Embedded Security CTF](https://microcorruption.com) - The purpose is to bypass a series of locks, essentially hacking them, in order to get through a series of warehouses.
@@ -85,7 +80,7 @@
 - [The Command Line Murders](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 - [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
-- [Learn Git Branching](https://learngitbranching.js.org/) - Learn git on the web.
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
 - [Oh my Git](https://ohmygit.org/) - An open source game about learning Git!
 
 
