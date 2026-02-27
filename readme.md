@@ -82,6 +82,7 @@
 - [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
 - [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
 - [Oh my Git](https://ohmygit.org/) - An open source game about learning Git!
+- [YouBrokeProd](https://youbrokeprod.com) - Debug production incidents through an interactive terminal simulation covering disk full, DNS failures, Kubernetes crash loops, and more.
 
 
 
