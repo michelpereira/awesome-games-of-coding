@@ -83,6 +83,7 @@
 - [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
 - [Oh my Git](https://ohmygit.org/) - An open source game about learning Git!
 - [YouBrokeProd](https://youbrokeprod.com) - Debug production incidents through an interactive terminal simulation covering disk full, DNS failures, Kubernetes crash loops, and more.
+- [V5 Games](https://v5games.com) - Browser-based AI text adventure games and word games, including AI-generated interactive fiction playable directly in the browser.
 
 
 
