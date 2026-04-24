@@ -46,6 +46,7 @@
 - [Untrusted](https://alexnisnevich.github.io/untrusted) - The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
 - [DeepestWorld](https://deepestworld.com/) - A browser MMORPG where you can code your character with JavaScript. Explore a boundless, persistent open world devoid of loading screens, where a multitude of biomes and creatures come together to form a living, breathing world.
 - [BitBurner](https://github.com/bitburner-official/bitburner-src) - A programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game can be played in the browser, or installed locally through Steam.
+- [Code4win](https://code4win.com/) - A browser-based programming game platform where you write code, solve simulation puzzles, optimize your solutions, and compete for the top spot on the leaderboard.
 
 ## C Sharp
 
