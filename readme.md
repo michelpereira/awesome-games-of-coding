@@ -46,6 +46,7 @@
 - [Untrusted](https://alexnisnevich.github.io/untrusted) - The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
 - [DeepestWorld](https://deepestworld.com/) - A browser MMORPG where you can code your character with JavaScript. Explore a boundless, persistent open world devoid of loading screens, where a multitude of biomes and creatures come together to form a living, breathing world.
 - [BitBurner](https://github.com/bitburner-official/bitburner-src) - A programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game can be played in the browser, or installed locally through Steam.
+- [claude-ball](https://claude-ball.fly.dev) - You coach a 2D soccer team, but the tactics are your job, not the typing: you describe how the team should play in plain English and your AI coding agent writes the bot's brain in TypeScript (a CLAUDE.md keeps the agent to coding, never strategy). Matches are deterministic, and you submit your bot to a live ladder against built-in bots and everyone else's. Open source.
 
 ## C Sharp
 
