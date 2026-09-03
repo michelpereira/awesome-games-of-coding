@@ -78,6 +78,7 @@
 - [Guido van Robot](http://gvr.sourceforge.net) - Programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming.
 - [CSSBattle](https://cssbattle.dev) -  Online CSS Code Golfing battleground. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
 - [The Command Line Murders](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
+- [WebTerm Learn](https://learn.webterm.app) - Gamified courses for the Linux terminal, Git and Vim that run in a simulated terminal in the browser. Every lesson is a hex on a 3D adventure map, you type real commands, and the exercise checks the resulting state rather than the command you typed.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 - [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
 - [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
