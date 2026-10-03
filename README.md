@@ -83,6 +83,7 @@
 - [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
 - [Oh my Git](https://ohmygit.org/) - An open source game about learning Git!
 - [YouBrokeProd](https://youbrokeprod.com) - Debug production incidents through an interactive terminal simulation covering disk full, DNS failures, Kubernetes crash loops, and more.
+- [DevOps Daily Games](https://devops-daily.com/games) - Free browser simulators and terminal games for DevOps: run commands in Linux, Docker, Kubernetes, Terraform and SQL terminals, and work through load balancing, rate limiting, DNS and scaling scenarios.
 
 
 
