@@ -25,6 +25,7 @@
 - [RealTimeBattle](http://realtimebattle.sourceforge.net) - A programming game in which robots controlled by programs are fighting each other. The goal is to destroy the enemies, using the radar to examine the environment and the cannon to shoot.
 - [Battlesnake](https://play.battlesnake.com) - Join a community of developers from around the world as you compete for fame and glory in Battlesnake, a multi-player programming competition based on the classic game - snake! All you need to play is a live web server that implements the Battlesnake API and the language of your choice to begin battling to find food, avoid other Battlesnakes, and stay alive as long as possible.
 - [Coder One](https://www.gocoder.one) - Annual AI programming tournament featuring a multiplayer 'Bomberman'-like game, cash prizes, and a casted finale livestream. Create an AI player that can navigate a 2D grid world collecting power-ups and placing explosives with the goal of taking your opponent down. Submit your AI in the form of a Docker image using one of our Python or TypeScript starter kits (community-contributed starter kits are also available in Go, C++, and Rust).
+- [CodeCityApp](https://codecityapp.com) - Build a city by completing coding quests gated by passing tests, with a built-in AI mentor for contextual help.
 
 ## Python
 
@@ -46,6 +47,9 @@
 - [Untrusted](https://alexnisnevich.github.io/untrusted) - The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
 - [DeepestWorld](https://deepestworld.com/) - A browser MMORPG where you can code your character with JavaScript. Explore a boundless, persistent open world devoid of loading screens, where a multitude of biomes and creatures come together to form a living, breathing world.
 - [BitBurner](https://github.com/bitburner-official/bitburner-src) - A programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game can be played in the browser, or installed locally through Steam.
+- [hackmud](https://hackmud.com/) - A retro cyberpunk RPG where you play a digital persona in a chaotic, unpredictable, and often goofy abandoned internet.
+- [Code4win](https://code4win.com/) - A browser-based programming game platform where you write code, solve simulation puzzles, optimize your solutions, and compete for the top spot on the leaderboard.
+- [claude-ball](https://claude-ball.fly.dev) - You coach a 2D soccer team, but the tactics are your job, not the typing: you describe how the team should play in plain English and your AI coding agent writes the bot's brain in TypeScript (a CLAUDE.md keeps the agent to coding, never strategy). Matches are deterministic, and you submit your bot to a live ladder against built-in bots and everyone else's. Open source.
 
 ## C Sharp
 
@@ -55,6 +59,7 @@
 
 - [Embedded Security CTF](https://microcorruption.com) - The purpose is to bypass a series of locks, essentially hacking them, in order to get through a series of warehouses.
 - [Box-256](http://box-256.com) - Write assembly code to match a shown graphic.
+- [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) - Puzzle game by Tomorrow Corporation where you program office workers with a small assembly-like language to move items from the inbox to the outbox.
 
 
 ## Scala
@@ -78,11 +83,14 @@
 - [Guido van Robot](http://gvr.sourceforge.net) - Programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming.
 - [CSSBattle](https://cssbattle.dev) -  Online CSS Code Golfing battleground. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
 - [The Command Line Murders](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
+- [WebTerm Learn](https://learn.webterm.app) - Gamified courses for the Linux terminal, Git and Vim that run in a simulated terminal in the browser. Every lesson is a hex on a 3D adventure map, you type real commands, and the exercise checks the resulting state rather than the command you typed.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 - [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
 - [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
 - [Oh my Git](https://ohmygit.org/) - An open source game about learning Git!
 - [YouBrokeProd](https://youbrokeprod.com) - Debug production incidents through an interactive terminal simulation covering disk full, DNS failures, Kubernetes crash loops, and more.
+- [DevOps Daily Games](https://devops-daily.com/games) - Free browser simulators and terminal games for DevOps: run commands in Linux, Docker, Kubernetes, Terraform and SQL terminals, and work through load balancing, rate limiting, DNS and scaling scenarios.
+- [V5 Games](https://v5games.com) - Browser-based AI text adventure games and word games, including AI-generated interactive fiction playable directly in the browser.
 
 
 
