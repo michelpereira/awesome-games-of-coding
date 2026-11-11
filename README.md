@@ -26,11 +26,11 @@
 - [Battlesnake](https://play.battlesnake.com) - Join a community of developers from around the world as you compete for fame and glory in Battlesnake, a multi-player programming competition based on the classic game - snake! All you need to play is a live web server that implements the Battlesnake API and the language of your choice to begin battling to find food, avoid other Battlesnakes, and stay alive as long as possible.
 - [Coder One](https://www.gocoder.one) - Annual AI programming tournament featuring a multiplayer 'Bomberman'-like game, cash prizes, and a casted finale livestream. Create an AI player that can navigate a 2D grid world collecting power-ups and placing explosives with the goal of taking your opponent down. Submit your AI in the form of a Docker image using one of our Python or TypeScript starter kits (community-contributed starter kits are also available in Go, C++, and Rust).
 - [CodeCityApp](https://codecityapp.com) - Build a city by completing coding quests gated by passing tests, with a built-in AI mentor for contextual help.
+- [Tank Royale](https://github.com/robocode-dev/tank-royale) - Battle royale game built on Robocode where you program tanks in Java, Kotlin, C#, or Python to fight against other players' bots until only one remains.
 
 ## Python
 
 - [Robocode](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
-- [Robot Rumble](https://robotrumble.org/) - Free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and JavaScript, and comes with a desktop-based command line tool.
 
 ## Java
 
@@ -53,7 +53,6 @@
 
 ## C Sharp
 
-- [Robocode](http://robocode.sourceforge.io/robocode.dotnet) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
 
 ## Assembly
 
@@ -71,7 +70,6 @@
 ## Miscellaneous
 
 - [Generals IO](http://generals.io) - Fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
-- [Robo Dojo](http://robodojo.club) - You build robots that build, corrupt and destroy other robots in an attempt to eliminate all competitors.
 - [Corewars](http://www.corewars.org) - Game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.
 - [TIS-100](http://www.zachtronics.com/tis-100) - Open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It's the assembly language programming game you never asked for!
 - [Shenzhen I/O](http://www.zachtronics.com/shenzhen-io) - You build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates, and then write code in a compact and powerful assembly language where every instruction can be conditionally executed.
@@ -85,7 +83,6 @@
 - [The Command Line Murders](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
 - [WebTerm Learn](https://learn.webterm.app) - Gamified courses for the Linux terminal, Git and Vim that run in a simulated terminal in the browser. Every lesson is a hex on a 3D adventure map, you type real commands, and the exercise checks the resulting state rather than the command you typed.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
-- [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
 - [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
 - [Oh my Git](https://ohmygit.org/) - Open source game about learning Git!
 - [YouBrokeProd](https://youbrokeprod.com) - Debug production incidents through an interactive terminal simulation covering disk full, DNS failures, Kubernetes crash loops, and more.
