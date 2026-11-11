@@ -26,6 +26,7 @@
 - [Battlesnake](https://play.battlesnake.com) - Join a community of developers from around the world as you compete for fame and glory in Battlesnake, a multi-player programming competition based on the classic game - snake! All you need to play is a live web server that implements the Battlesnake API and the language of your choice to begin battling to find food, avoid other Battlesnakes, and stay alive as long as possible.
 - [Coder One](https://www.gocoder.one) - Annual AI programming tournament featuring a multiplayer 'Bomberman'-like game, cash prizes, and a casted finale livestream. Create an AI player that can navigate a 2D grid world collecting power-ups and placing explosives with the goal of taking your opponent down. Submit your AI in the form of a Docker image using one of our Python or TypeScript starter kits (community-contributed starter kits are also available in Go, C++, and Rust).
 - [CodeCityApp](https://codecityapp.com) - Build a city by completing coding quests gated by passing tests, with a built-in AI mentor for contextual help.
+- [Tank Royale](https://github.com/robocode-dev/tank-royale) - Battle royale game built on Robocode where you program tanks in Java, Kotlin, C#, or Python to fight against other players' bots until only one remains.
 
 ## Python
 
